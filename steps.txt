@@ -1,0 +1,4 @@
+
+-> create folder structure and route 
+-> install nodemailer : npm install nodemailer
+-> 
